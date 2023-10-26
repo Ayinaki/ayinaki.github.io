@@ -1,7 +1,7 @@
-[class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"] path {
+[class^=wrapper_d281dd][data-list-item-id="guildsnav___home"] path {
   display: none !important
   }
-  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]::before {
+  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]::before {
   margin-left: 0px;
   content: "";
   border-radius: 50%;
@@ -11,17 +11,17 @@
   transition: 0.2s ease;
   opacity: 0.5;
   image-rendering: pixelated;
-  background-image: url("https://cdn.discordapp.com/attachments/1131094081301381190/1133903240707199117/kina.png");
+  background-image: url("https://raw.githubusercontent.com/adryd325/oneko.js/14bab15a755d0e35cd4ae19c931d96d306f99f42/oneko.gif");
   animation: sleep, init; 
   animation-duration: 1s, 2s;
   animation-iteration-count: infinite, 1;
   animation-delay: 2s, 0s
   }
-  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]::after {
+  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]::after {
   animation: reverse wakeup 1s 1
   }
-  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]:hover::before,
-  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"].selected-1Drb7Z::before {
+  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]:hover::before,
+  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"].selected-1Drb7Z::before {
   animation: 2s 1 forwards wakeup;
   opacity: 1
   }
