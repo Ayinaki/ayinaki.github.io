@@ -1,7 +1,7 @@
-[class^=wrapper_d281dd][data-list-item-id="guildsnav___home"] path {
+[class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"] path {
   display: none !important
   }
-  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]::before {
+  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]::before {
   margin-left: 0px;
   content: "";
   border-radius: 50%;
@@ -17,11 +17,11 @@
   animation-iteration-count: infinite, 1;
   animation-delay: 2s, 0s
   }
-  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]::after {
+  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]::after {
   animation: reverse wakeup 1s 1
   }
-  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"]:hover::before,
-  [class^=wrapper_d281dd][data-list-item-id="guildsnav___home"].selected-1Drb7Z::before {
+  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"]:hover::before,
+  [class^=wrapper_d281dd.selected_f5ec8e][data-list-item-id="guildsnav___home"].selected-1Drb7Z::before {
   animation: 2s 1 forwards wakeup;
   opacity: 1
   }
